@@ -1,7 +1,7 @@
 ---
 name: PackagePortal
 description: "Package Portal incentivizes online shoppers to scan shipping labels on their deliveries to confirm receipt and rate the service provider."
-logo: packagePortal-logo
+logo: packagePortal-logo.png
 categories: app,dapp
 status: live
 twitter: https://twitter.com/packageportal/
