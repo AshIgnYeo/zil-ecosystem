@@ -44,7 +44,7 @@ tags go here
 (required) logo: all image files must by 100x100px
 (required) categories: A comma separated list of categories describing the project
 (required) status: The status of the project: [live | building]
-(required) twitter: URL to Twitter page
+(optional) twitter: URL to Twitter page
 (optional) website: URL to the website
 (optional) telegram: URL to Telegram channel
 (optional) discord: URL to Discord invite
