@@ -1,6 +1,6 @@
 # Zilliqa Ecosystem
 
-This repository is the data source for the Zilliqa Ecosystem page located at [zilliqa.com/ecosystem](https://zilliqa.com/ecosystem). Here, you can populate the latest projects being built or are active on the Zilliqa ecosystem.
+This repository is the data source for the Zilliqa Ecosystem page located at [zilliqa.com/ecosystem](https://zilliqa.com/ecosystem). Here, you can populate the latest projects being built or are active in the Zilliqa ecosystem.
 
 # Contributing Guidelines
 
