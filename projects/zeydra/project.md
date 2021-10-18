@@ -1,8 +1,7 @@
 ---
 name: Zeydra
 description: A matchmaking platform using crypto interactions.
-logo: False
-categories: App, dApp
+categories: app,dapp
 status: Building
 twitter: False
 website: https://zeydra.com/

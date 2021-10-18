@@ -1,8 +1,7 @@
 ---
 name: WazirX
 description: India's most trusted Bitcoin and cryptocurrency exchange platform.
-logo: 
-categories: Exchange
+categories: exchange
 status: Live
 twitter: https://twitter.com/WazirxIndia
 website: https://wazirx.com/

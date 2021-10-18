@@ -1,8 +1,7 @@
 ---
 name: SeaCabbie
 description: False
-logo: False
-categories: False
+categories: false
 status: False
 twitter: False
 website: https://seacabbie.com/

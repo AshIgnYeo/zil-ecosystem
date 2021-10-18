@@ -1,8 +1,7 @@
 ---
 name: Comining
 description: A mining protocol where users can also mine ZIL.
-logo: 
-categories: Mining
+categories: mining
 status: Live
 twitter: False
 website: https://comining.io/

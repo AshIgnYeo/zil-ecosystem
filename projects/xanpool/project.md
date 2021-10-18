@@ -1,8 +1,7 @@
 ---
 name: Xanpool
 description: An internationally compliant fiat-gateway software solution for exchanges, wallets, and other cryptocurrency businesses. 
-logo: 
-categories: Exchange
+categories: exchange
 status: Live
 twitter: @XanpoolOfficial
 website: https://xanpool.com/

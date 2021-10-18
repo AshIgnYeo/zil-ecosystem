@@ -1,8 +1,7 @@
 ---
 name: Chocolate Stablecoin
 description: False
-logo: 
-categories: Stablecoin, Defi
+categories: stablecoin,defi
 status: Live
 twitter: False
 website: https://mambo.li/stablecoins/franc/

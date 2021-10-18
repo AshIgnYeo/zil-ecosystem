@@ -1,8 +1,7 @@
 ---
 name: Genesis
 description: False
-logo: False
-categories: Tools
+categories: tools
 status: Live
 twitter: False
 website: https://genesis.vision/

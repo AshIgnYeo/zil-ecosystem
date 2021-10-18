@@ -1,8 +1,7 @@
 ---
 name: Crypto Merch
 description: A crypto-focused merchandise e-store that also carries a huge collection of Zilliqa's latest branded merch.
-logo: 
-categories: False
+categories: false
 status: Live
 twitter: https://twitter.com/The_CryptoMerch?ref_src=twsrc%5Etfw
 website: https://thecryptomerch.com/

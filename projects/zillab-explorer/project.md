@@ -1,8 +1,7 @@
 ---
 name: ZilLab Explorer
 description: ZilLab Explorer is a Blockchain Explorer and Analytics Platform for Zilliqa.
-logo: False
-categories: Explorer
+categories: explorer
 status: Live
 twitter: False
 website: https://zillab.com/

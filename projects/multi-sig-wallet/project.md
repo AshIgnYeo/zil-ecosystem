@@ -1,7 +1,6 @@
 ---
 name: Multi-sig wallet
 description: Multisig wallet backed by a Scilla contract
-logo: 
 categories: wallet
 status: Live
 twitter: False

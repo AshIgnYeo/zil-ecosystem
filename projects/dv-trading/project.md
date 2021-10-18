@@ -1,8 +1,7 @@
 ---
 name: DV Trading
 description: False
-logo: False
-categories: Tools
+categories: tools
 status: Live
 twitter: False
 website: https://www.dvtrading.co/

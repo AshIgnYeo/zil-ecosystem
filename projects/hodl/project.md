@@ -1,8 +1,7 @@
 ---
 name: HODL
 description: False
-logo: 
-categories: Meme Token
+categories: meme,token
 status: Live
 twitter: False
 website: https://zilstream.com/tokens/hodl

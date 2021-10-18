@@ -1,8 +1,7 @@
 ---
 name: Depos
 description: The first USD-pegged stablecoin that is fully collaterised by digital assets, provides instantly redeemable collateral and incentivises distributors with interest rate.
-logo: 
-categories: Stablecoin
+categories: stablecoin
 status: Live
 twitter: False
 website: https://depos.io/

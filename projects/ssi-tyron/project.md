@@ -1,8 +1,7 @@
 ---
 name: SSI Tyron
 description: SSITyron's Self-Sovereign Identity (SSI) allows people to manage their digital identities online.
-logo: False
-categories: Wallet, Web3, API
+categories: wallet,web3,api
 status: Live
 twitter: https://twitter.com/ssiprotocol
 website: https://ssiprotocol.com

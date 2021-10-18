@@ -1,8 +1,7 @@
 ---
 name: Zilliqa Duel
 description: False
-logo: False
-categories: False
+categories: false
 status: False
 twitter: False
 website: False

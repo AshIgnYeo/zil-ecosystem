@@ -1,8 +1,7 @@
 ---
 name: Copper
 description: The institutional gateway to digital asset investing.
-logo: 
-categories: Custody
+categories: custody
 status: False
 twitter: https://twitter.com/CopperHQ
 website: https://copper.co/

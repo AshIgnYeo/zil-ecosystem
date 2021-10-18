@@ -1,8 +1,7 @@
 ---
 name: Switcheo
 description: A a decentralised exchange based in Singapore. ZilSwap was built in collaboration with Switcheo.
-logo: 
-categories: DeFi
+categories: defi
 status: Live
 twitter: https://twitter.com/SwitcheoLabs
 website: https://switcheo.network/

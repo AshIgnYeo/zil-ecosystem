@@ -1,8 +1,7 @@
 ---
 name: MugglePay
 description: An SDK that allows for merchants to accept crypto payments.
-logo: 
-categories: SDK, Payment
+categories: sdk,payment
 status: Live
 twitter: https://twitter.com/paymuggle
 website: https://mugglepay.com/

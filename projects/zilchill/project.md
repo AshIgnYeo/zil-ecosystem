@@ -1,8 +1,7 @@
 ---
 name: ZilChill
 description: Decentralizing the Gaming Industry on Zilliqa
-logo: False
-categories: Gaming
+categories: gaming
 status: Live
 twitter: False
 website: https://zilchill.com/

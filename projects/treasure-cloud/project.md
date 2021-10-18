@@ -1,8 +1,7 @@
 ---
 name: Treasure Cloud
 description: A cloud storage provider offering privacy and security-based solutions. 
-logo: 
-categories: Custody
+categories: custody
 status: Live
 twitter: https://twitter.com/treasurestorage
 website: https://treasure.cloud/

@@ -1,8 +1,7 @@
 ---
 name: Emanthan Research
 description: False
-logo: False
-categories: Education
+categories: education
 status: N/A
 twitter: https://twitter.com/Ritu_Nitttr
 website: https://emanthan.org/

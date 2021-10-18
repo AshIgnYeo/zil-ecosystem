@@ -1,8 +1,7 @@
 ---
 name: Flat Lazy Ass Token
 description: False
-logo: 
-categories: Meme Token
+categories: meme,token
 status: Live
 twitter: False
 website: https://zilstream.com/tokens/flat

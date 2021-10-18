@@ -1,8 +1,7 @@
 ---
 name: Ten31
 description: Connecting the dots between DeFi and banking.
-logo: False
-categories: Defi
+categories: defi
 status: Live
 twitter: https://twitter.com/TEN31Bank
 website: https://www.ten31.com/

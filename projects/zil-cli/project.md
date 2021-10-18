@@ -1,8 +1,7 @@
 ---
 name: zil-cli
 description: Command Line Interface for Zilliqa Blockchain.
-logo: 
-categories: SDK, Tools
+categories: sdk,tools
 status: Live
 twitter: False
 website: https://zilcli.app/#/
