@@ -76,7 +76,9 @@ tags go here
 ### logo
 
 - Ensure logo is in one of the following formats (png|jpg|svg)
-- Logo has to be visible on a solid black background
+- Logo has to be visible on a light gray background (#F5F5F5)
+- Logo should have a 1:1 ratio. e.g. 300px x 300px.
+- Don't include your project name in the logo. Include only the icon.
 
 <a name="categories_listing"></a>
 
