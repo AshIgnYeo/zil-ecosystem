@@ -76,7 +76,9 @@ tags go here
 ### logo
 
 - Ensure logo is in one of the following formats (png|jpg|svg)
-- Logo has to be visible on a solid black background
+- Logo has to be visible on a light gray background (#F5F5F5)
+- Logo should have a 1:1 ratio. e.g. 300px x 300px.
+- Don't include your project name in the logo. Include only the icon.
 
 <a name="categories_listing"></a>
 
@@ -84,115 +86,59 @@ tags go here
 
 ### api
 
-> How to classify as api
-
 ### app
-
-> How to classify as app
 
 ### custody
 
-> How to classify as custody
-
 #### dao
-
-> How to classify as dao
 
 #### dapp
 
-> How to classify as dapp
-
 #### defi
-
-> How to classify as defi
 
 #### dex
 
-> How to classify as dex
-
 #### education
-
-> How to classify as education
 
 #### esport
 
-> How to classify as esport
-
 #### exchange
-
-> How to classify as exchange
 
 #### explorer
 
-> How to classify as explorer
-
 #### fund
-
-> How to classify as fund
 
 #### infra
 
-> How to classify as infra
-
 #### gaming
-
-> How to classify as gaming
 
 #### meme_token
 
-> How to classify as meme token
-
 #### metaverse
-
-> How to classify as metaverse
 
 #### mining
 
-> How to classify as mining
-
 #### nft
-
-> How to classify as nft
 
 #### opfi
 
-> How to classify as opfi
-
 #### oracle
-
-> How to classify as oracle
 
 #### payment
 
-> How to classify as payment
-
 #### prediction
-
-> How to classify as prediction
 
 #### sdk
 
-> How to classify as sdk
-
 #### stablecoin
-
-> How to classify as stablecoin
 
 #### staking
 
-> How to classify as staking
-
 #### tools
-
-> How to classify as tools
 
 #### wallet
 
-> How to classify as wallet
-
 #### web3
-
-> How to classify as web3
 
 **❗️ Important!: Please only use existing categories and watch out for typos!
 If you think another category is needed, request the category in your PR.**
