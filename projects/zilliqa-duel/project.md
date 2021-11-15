@@ -2,7 +2,7 @@
 name: Zilliqa Duel
 description: dapp
 categories: false
-status: False
+status: Live
 twitter: False
 website: False
 discord: False
