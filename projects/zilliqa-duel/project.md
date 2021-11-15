@@ -1,6 +1,6 @@
 ---
 name: Zilliqa Duel
-description: False
+description: dapp
 categories: false
 status: False
 twitter: False
