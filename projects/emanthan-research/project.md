@@ -2,7 +2,7 @@
 name: Emanthan Research
 description: False
 categories: education
-status: N/A
+status: Building
 twitter: https://twitter.com/Ritu_Nitttr
 website: https://emanthan.org/
 discord: False
