@@ -1,7 +1,7 @@
 ---
 name: SeaCabbie
 description: False
-categories: false
+categories: dapp
 status: False
 twitter: False
 website: https://seacabbie.com/
