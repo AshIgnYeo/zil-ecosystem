@@ -1,7 +1,7 @@
 ---
 name: Tora (TEEX)
 description: False
-categories: false
+categories: tools
 status: False
 twitter: https://twitter.com/teexio?lang=en
 website: False
