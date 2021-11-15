@@ -1,6 +1,6 @@
 ---
 name: Zilliqa Duel
-description: dapp
+description: A gaming application.
 categories: dapp,gaming
 status: Live
 twitter: False
