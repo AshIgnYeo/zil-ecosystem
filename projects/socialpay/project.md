@@ -1,6 +1,6 @@
 ---
-name: SocialPay
-description: SocialPay is a platform for companies to market and incentivise users for promoting their campaigns
+name: Social Reward
+description: Social Reward is a platform for companies to market and incentivise users for promoting their campaigns
 categories: app,dapp
 status: Live
 twitter: False
