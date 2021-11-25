@@ -147,4 +147,4 @@ If you think another category is needed, request the category in your PR.**
 
 # Questions
 
-Have any questions? Email X or message on Discord
+Have any questions? Message on [Discord](https://discord.com/invite/XMRE9tt)
