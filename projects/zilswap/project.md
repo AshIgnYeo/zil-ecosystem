@@ -1,7 +1,7 @@
 ---
 name: ZilSwap
 description: The premier DEX on the Zilliqa blockchain.
-categories: exchange,nft,web3,dex,api,staking,defi,dapp,dapp,app,sdk,oracle,token,governance,dao,dex,infra
+categories: exchange,nft,web3,dex,api,staking,defi,dapp,app,sdk,oracle,token,governance,dao,dex,infra
 status: Live
 twitter: https://twitter.com/ZilSwap
 website: https://zilswap.io/
