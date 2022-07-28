@@ -1,6 +1,6 @@
 ---
 name: TYRON Network
-description: A network of decentralized identities that centres the control of information around you, the user. Your decentralized identity has Web3 wallets to give you complete control over your financial data, powered by the online security of Zilliqa and W3C Decentralized Identifiers (DIDs).
+description: A decentralized network of self-sovereign identities that centres the control of information around you, the user. Your SSI has Web3 wallets to give you complete control over your financial data, powered by the online security of Zilliqa and W3C Decentralized Identifiers (DIDs).
 categories: wallet,defi,stablecoin,token,dao,governance,web3
 status: Live
 twitter: https://twitter.com/ssiprotocol
