@@ -7,6 +7,6 @@ categories: gaming, nft, app, metaverse
 status: building
 twitter: https://twitter.com/BeanterraGame
 website: https://beanterra.io
-telegram: https://t.me/greenbeanzofficial
+telegram: https://t.me/Beanterra
 discord: https://discord.gg/beanterra
 ---
