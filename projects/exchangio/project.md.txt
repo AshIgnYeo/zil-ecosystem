@@ -1,0 +1,10 @@
+---
+name: Exchangio
+date: 08.12.2023
+description: Non-custodial cryptocurrency exchange. Swap ZIL and 700+ assets instantly whithout limits.
+logo: exchangio_logo.png
+categories: exchange
+status: live
+twitter: https://twitter.com/Exchangio
+website: https://exchang.io/
+---
